@@ -4,7 +4,7 @@
 
 ### 🧾 About Me
 
-- 🎓 Final-year student in **Computer Science and Economic Informatics** at the **Bucharest University of Economic Studies** (ASE București)  
+- 🎓 Final-year student in **Computer Science and Economic Informatics** at the **Bucharest University of Economic Studies** 
 - 🎯 Class of 2026, double specialization in **Business & IT**  
 - 🧠 Passionate about blending technical knowledge with business strategy  
 - 💬 Ask me about:
