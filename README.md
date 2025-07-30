@@ -2,7 +2,7 @@
 
 ---
 
-### 🧾 About Me (Short Version)
+### 🧾 About Me
 
 - 🎓 Final-year student in **Computer Science and Economic Informatics** at the **Bucharest University of Economic Studies** (ASE București)  
 - 🎯 Class of 2026, double specialization in **Business & IT**  
