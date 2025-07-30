@@ -1,4 +1,5 @@
-🙋‍♀️ Welcome to Miha's GitHub 🙋‍♀
+<h1 align="center">🙋‍♀️ Welcome to Miha's GitHub 🙋‍♀️</h1>
+
 
 ---
 
