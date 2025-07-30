@@ -40,13 +40,13 @@
 </p>
 
 
-<h3 align="center">🧰 Productivity</h3>
-<p align="center">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/excel-plain.svg" width="40" alt="Excel"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/word-plain.svg" width="40" alt="Word"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/powerpoint-plain.svg" width="40" alt="PowerPoint"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282018%E2%80%93present%29.svg" width="40" alt="Access"/></a>
-  <a href="https://www.canva.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40" alt="Canva"/></a>
-</p>
+### 🧰 Productivity
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Access](https://img.shields.io/badge/Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 
