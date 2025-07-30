@@ -19,8 +19,11 @@ Front-End Development — creating intuitive, aesthetic, and responsive web inte
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="40" alt="SQL"/></a>
+  <a href="https://www.oracle.com/database/technologies/appdev/plsql.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" alt="PL/SQL"/></a>
   <a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/></a>
 </p>
+
 
 ### 🛠 Platforms & Tools
 <p align="left">
@@ -32,14 +35,13 @@ Front-End Development — creating intuitive, aesthetic, and responsive web inte
   <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></a>
 </p>
 
-### 📚 Knowledge Areas
-- 🧠 OOP
-- 🧮 Data Structures
-- 💾 SQL & PL/SQL
 
 ### 🧰 Productivity
-- 🟩 Microsoft Excel
-- 🟦 Microsoft Word
-- 🟥 Microsoft PowerPoint
-- 🟪 Microsoft Access
-- 🎨 Canva
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/excel-plain.svg" width="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/word-plain.svg" width="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/powerpoint-plain.svg" width="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/access"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Microsoft_Office_Access_%282018%E2%80%93present%29.svg" width="40"/></a>
+  <a href="https://www.canva.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="40"/></a>
+</p>
+
