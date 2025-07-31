@@ -10,16 +10,16 @@
   
 ## 💬 Ask Me About
 
-🛠️  Tech & Security  
+  Tech & Security  
 - Reverse engineering & binary security (CTF-style challenges)  
 - Bash & shell scripting for automation  
 - Game testing, workflows & Agile environments  
 
-📊  Databases & Backend  
+ Databases & Backend  
 - SQL & PL/SQL queries for real-world apps  
 - Relational database design & optimization  
 
-🧠  Projects & Algorithms  
+ Projects & Algorithms  
 - Image processing with OpenCV  
 - Academic projects in C/C++, Assembly, Shell, OOP, SD, C#, Java, Python
 
