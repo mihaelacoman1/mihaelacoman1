@@ -1,8 +1,6 @@
 <h1 align="center">🙋‍♀️ Welcome to Miha's GitHub 🙋‍♀️</h1>
 
 
----
-
 ### 🧾 About Me
 
 - 🎓 Final-year student in **Computer Science and Economic Informatics** at the **Bucharest University of Economic Studies** 
