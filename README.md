@@ -63,7 +63,7 @@
 
 <div align="center">
 
-![Mihaela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaelacoman1&count_private=true&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaelacoman1&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight)
 
 </div>
