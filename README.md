@@ -55,8 +55,8 @@
 
 <div align="center">
 
-![Mihaela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miha1110&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miha1110&layout=compact&theme=tokyonight)
+![Mihaela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaelacoman1&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight)
 
 </div>
 
