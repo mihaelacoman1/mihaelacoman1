@@ -58,5 +58,10 @@
 
 </div>
 
+## 🔗 Find me here
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/758783084446875670)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mihaela.adelina0)
+
 
 
