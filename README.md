@@ -39,6 +39,9 @@
 
 ### 🛠 Platforms & Tools
 <p align="left">
+   <img src="https://img.shields.io/badge/Windows%208-%230078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%2010-%230078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows%2011-%230078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
   <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/></a>
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
   <a href="https://www.microsoft.com/windows"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40"/></a>
