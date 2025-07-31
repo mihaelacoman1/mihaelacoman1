@@ -5,12 +5,25 @@
 
 - 🎓 Final-year student in **Computer Science and Economic Informatics** at the **Bucharest University of Economic Studies** 
 - 🎯 Class of 2026, double specialization in **Business & IT**  
-- 🧠 Passionate about blending technical knowledge with business strategy  
-- 💬 Ask me about:
-  - 🧩 **Product Management** – bridging users, developers and value  
-  - 🎨 **Image Processing** – extracting meaning from pixels  
-  - 🌐 **Front-End Development** – building intuitive, aesthetic, responsive web apps  
-- 👩‍💻 Started coding in high school. 6 years and many deadlines later – still in love with it, in all its forms.
+- 🧠 Passionate about blending technical knowledge with business strategy
+  
+## 💬 Ask Me About
+
+🛠️  Tech & Security  
+- Reverse engineering & binary security (CTF-style challenges)  
+- Bash & shell scripting for automation  
+- Game testing, workflows & Agile environments  
+
+📊  Databases & Backend  
+- SQL & PL/SQL queries for real-world apps  
+- Relational database design & optimization  
+
+🧠  Projects & Algorithms  
+- Image processing with OpenCV (Python)  
+- Academic projects in C++, Assembly (e.g. factorial logic, vector processing)
+
+
+## 👩‍💻 Started coding in high school. 6 years and many deadlines later – still in love with it, in all its forms.
 
 
 ## 🚀 Tech Stack
