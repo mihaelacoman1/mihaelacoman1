@@ -48,9 +48,6 @@
   <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/></a>
   <a href="https://www.eclipse.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/></a>
-<a href="https://www.oracle.com/database/sqldeveloper/" target="_blank">
-  <img src="https://i.imgur.com/kWvFkXk.png" height="40" alt="SQL Developer" title="SQL Developer" />
-</a>
 </p>
 
 ### 🧰 Productivity
