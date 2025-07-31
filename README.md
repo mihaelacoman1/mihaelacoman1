@@ -48,7 +48,7 @@
   <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm"/></a>
   <a href="https://www.eclipse.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/></a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Database-icon.svg/120px-Database-icon.svg.png" height="40" title="Oracle SQL Developer"/>
+<img src="https://raw.githubusercontent.com/miha1110/miha1110/main/assets/sql-developer-icon.png" height="40" title="Oracle SQL Developer"/>
 </p>
 
 ### 🧰 Productivity
