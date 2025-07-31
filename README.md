@@ -23,7 +23,7 @@
 - Academic projects in C++, Assembly (e.g. factorial logic, vector processing)
 
 
-## 👩‍💻 Started coding in high school. 6 years and many deadlines later – still in love with it, in all its forms.
+# 👩‍💻 Started coding in high school. 6 years and many deadlines later – still in love with it, in all its forms.
 
 
 ## 🚀 Tech Stack
