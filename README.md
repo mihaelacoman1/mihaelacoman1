@@ -20,8 +20,8 @@
 - Relational database design & optimization  
 
 🧠  Projects & Algorithms  
-- Image processing with OpenCV (Python)  
-- Academic projects in C++, Assembly (e.g. factorial logic, vector processing)
+- Image processing with OpenCV  
+- Academic projects in C/C++, Assembly, Shell, OOP, SD, C#, Java, Python
 
 ## 🚀 Tech Stack
 
