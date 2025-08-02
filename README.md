@@ -1,5 +1,6 @@
-<h1 align="center">➡️ 🚀 Miha's GitHub Journey 👩‍💻 ⬅️</h1>
-
+<p align="center">
+  <img src="https://your-link.com/animated-title.gif" alt="Miha's GitHub Journey"/>
+</p>
 
 ###  About Me
 
