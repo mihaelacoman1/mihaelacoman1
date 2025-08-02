@@ -1,14 +1,14 @@
 <h1 align="center">🙋‍♀️ Welcome to Miha's GitHub 🙋‍♀️</h1>
 
 
-### 🧾 About Me
+###  About Me
 
 - 🎓 Final-year student in **Computer Science and Economic Informatics** at the **Bucharest University of Economic Studies** 
 - 🎯 Class of 2026, double specialization in **Business & IT**  
 - 🧠 Passionate about blending technical knowledge with business strategy
 - 👩‍💻 Started coding in high school. 6 years and many deadlines later – still in love with it, in all its forms.
   
-## 💬 Ask Me About
+##  Ask Me About
 
   Tech & Security  
 - Reverse engineering & binary security (CTF-style challenges)  
@@ -23,7 +23,7 @@
 - Image processing with OpenCV  
 - Academic projects in C/C++, Assembly, Shell, OOP, SD, C#, Java, Python
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -68,13 +68,13 @@
 
 </div>
 
-## 🔗 Find me here
+##  Find me here
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihaela-coman-4bb510234/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/758783084446875670)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mihaela.adelina0)
 
-## 🔬 What I’m Working On
+##  What I’m Working On
 
 - 📱 Android app for managing appointments in a medical cabinet – built with Kotlin & Firebase
 - 🔐 Recently completed Security Summer School 2025 – continuing with advanced exploit development (ret2libc, shellcodes, ROP)
