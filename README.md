@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://your-link.com/animated-title.gif" alt="Miha's GitHub Journey"/>
-</p>
+<h1 align="center">🙋‍♀️ Welcome to Miha's GitHub 🙋‍♀️</h1>>
 
 ###  About Me
 
