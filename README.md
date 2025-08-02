@@ -77,5 +77,10 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/758783084446875670)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mihaela.adelina0)
 
+## 🔬 What I’m Working On
+
+- 📱 Android app for managing appointments in a medical cabinet – licență (Java, Firebase)
+- 🔐 Recently completed Security Summer School 2025 – now diving deeper into exploit development & binary analysis
+- ☁️ Built and tested a mock e-commerce backend using Node.js + MongoDB – open to expanding it with authentication & admin features
 
 
