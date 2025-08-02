@@ -1,6 +1,4 @@
-<h1 align="center">
-  <span style="color:#ff79c6;">🚀 Miha's GitHub Journey 👩‍💻</span>
-</h1>
+<h1 align="center">➡️ 🚀 Miha's GitHub Journey 👩‍💻 ⬅️</h1>
 
 
 ###  About Me
