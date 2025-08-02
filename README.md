@@ -79,8 +79,9 @@
 
 ## 🔬 What I’m Working On
 
-- 📱 Android app for managing appointments in a medical cabinet – licență (Java, Firebase)
-- 🔐 Recently completed Security Summer School 2025 – now diving deeper into exploit development & binary analysis
-- ☁️ Built and tested a mock e-commerce backend using Node.js + MongoDB – open to expanding it with authentication & admin features
+- 📱 Android app for managing appointments in a medical cabinet – built with Kotlin & Firebase
+- 🔐 Recently completed Security Summer School 2025 – continuing with advanced exploit development (ret2libc, shellcodes, ROP)
+- ☁️ Built and tested a mock e-commerce backend using Node.js + MongoDB – exploring integration of authentication & admin features
+
 
 
