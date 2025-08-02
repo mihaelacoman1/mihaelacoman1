@@ -1,5 +1,8 @@
-<h1 align="center">🙋‍♀️ Welcome to Miha's GitHub 🙋‍♀️</h1>
-
+<h1 align="center">
+  <span style="display: inline-block; animation: slide-in 2s ease-out forwards; white-space: nowrap;">
+    🚀 Welcome to Miha's GitHub 👩‍💻
+  </span>
+</h1>
 
 ###  About Me
 
