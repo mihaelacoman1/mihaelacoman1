@@ -1,21 +1,6 @@
 <h1 align="center">
-  <span style="display: inline-block; animation: slide-in 2s ease-out forwards; white-space: nowrap;">
-    🚀 Welcome to Miha's GitHub 👩‍💻
-  </span>
+  <span style="color:#ff79c6;">🚀 Miha's GitHub Journey 👩‍💻</span>
 </h1>
-
-<style>
-@keyframes slide-in {
-  from {
-    transform: translateX(-100%);
-    opacity: 0;
-  }
-  to {
-    transform: translateX(0%);
-    opacity: 1;
-  }
-}
-</style>
 
 
 ###  About Me
