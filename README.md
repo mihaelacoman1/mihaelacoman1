@@ -61,6 +61,7 @@
 ##  GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihaelacoman1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </div>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight)
 
 </div>
