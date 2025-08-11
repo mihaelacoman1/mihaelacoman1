@@ -59,17 +59,9 @@
 </p>
 
 ##  GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mihaelacoman1&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihaelacoman1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight)
 
 </div>
 
