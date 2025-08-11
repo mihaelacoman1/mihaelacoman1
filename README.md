@@ -7,8 +7,6 @@
 - 🧠 Passionate about blending technical knowledge with business strategy
 - 👩‍💻 Started coding in high school. 6 years and many deadlines later – still in love with it, in all its forms.
 
-##  Find me here
-
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihaela-coman-4bb510234/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/758783084446875670)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mihaela.adelina0)
