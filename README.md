@@ -70,7 +70,7 @@
 
 ##  What I’m Working On
 
-- 📱 Android app for managing appointments in a medical cabinet – built with Kotlin & Firebase
+- 📱 Android fitness app that uses a pre-trained Human Pose Estimation model (like MoveNet) to track the user’s body position in real time, check if exercises are performed correctly, give feedback, and include a workout scheduler with difficulty levels.
 - 🔐 Recently completed Security Summer School 2025 – continuing with advanced exploit development (ret2libc, shellcodes, ROP)
 - ☁️ Built and tested a mock e-commerce backend using Node.js + MongoDB – exploring integration of authentication & admin features
 
