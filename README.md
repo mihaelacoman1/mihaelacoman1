@@ -62,12 +62,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=mihaelacoman1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 ## 🗄️ Databases & Backend
 
 <p align="left">
@@ -76,6 +70,13 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+## 📊 GitHub Stats
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=mihaelacoman1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
 
 ##  What I’m Working On
 
