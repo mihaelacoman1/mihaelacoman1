@@ -68,6 +68,15 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
+## 🗄️ Databases & Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
 ##  What I’m Working On
 
 - 📱 Android fitness app that uses a pre-trained Human Pose Estimation model (like MoveNet) to track the user’s body position in real time, check if exercises are performed correctly, give feedback, and include a workout scheduler with difficulty levels.
