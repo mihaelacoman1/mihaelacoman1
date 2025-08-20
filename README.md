@@ -52,7 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
 </p>
 
-
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
@@ -76,12 +75,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaelacoman1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-
 ##  What I’m Working On
 
 - 📱 Android fitness app that uses a pre-trained Human Pose Estimation model (like MoveNet) to track the user’s body position in real time, check if exercises are performed correctly, give feedback, and include a workout scheduler with difficulty levels.
 - 🔐 Recently completed Security Summer School 2025 – continuing with advanced exploit development (ret2libc, shellcodes, ROP)
 - ☁️ Built and tested a mock e-commerce backend using Node.js + MongoDB – exploring integration of authentication & admin features
-
-
-
